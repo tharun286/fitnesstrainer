@@ -1,4 +1,4 @@
-<h1 align="center">💪 AI Fitness Assistant 🤖</h1>
+<h1 align="center">💪 AI Fitness Assistant </h1>
 
 ![Demo App](/public/screenshot-for-readme.png)
 
