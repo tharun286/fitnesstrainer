@@ -12,8 +12,6 @@
 - 🔒 Authentication & Authorization (Clerk)
 - 💾 Database (Convex)
 - 🎬 Real-time Program Generation
-- 💻 Layouts
-- 🎭 Client & Server Components
 
 ## Features
 
